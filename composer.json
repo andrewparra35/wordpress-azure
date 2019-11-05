@@ -1,0 +1,14 @@
+{
+    "name": "parraa/wordpress-azure",
+    "description": "composer file",
+    "type": "project",
+    "license": "WA",
+    "authors": [
+        {
+            "name": "Andrew Parra",
+            "email": "andrew_parra@wycliffeassociates.org"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
