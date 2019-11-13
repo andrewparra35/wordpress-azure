@@ -1,0 +1,20 @@
+{
+  "name": "devopstechreview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewparra35/wordpress-azure/new/master.git"
+  },
+  "author": "",
+  "license": "WA",
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mocha": "^6.2.1"
+  }
+}
